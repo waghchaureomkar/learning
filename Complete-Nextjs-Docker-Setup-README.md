@@ -2,6 +2,8 @@
 
 This README provides a full step-by-step guide to dockerizing a Next.js frontend application, adding NGINX as a reverse proxy, enabling HTTPS with Let's Encrypt, and setting up GitHub Actions for CI/CD deployment.
 
+https://chatgpt.com/c/6831c863-1f4c-800f-9139-730e8784f6b3
+
 ---
 
 ## 📁 Project Structure
